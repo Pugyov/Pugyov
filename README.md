@@ -1,6 +1,6 @@
 # Hi there, I'm Nikolay 👋 
 
-## I'm an aspiring ASP.NET developer
+## I'm a Project Manager looking for an opportunity to grow.
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
