@@ -4,10 +4,10 @@
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🌱 I'm majoring in **Information Systems** and **Business Administration* at **American University in Bulgaria (AUBG)**
-- 💻 Currently looking for work as a **ASP.NET Developer**
-- 👨‍🏫 President of **The Investment Management Club at AUBG**
-- ⚡ Something about me: I love tackling problems the hardest way possible
+- 🌱 I'm majoring in **Information Systems** and **Business Administration** at **American University in Bulgaria (AUBG)**
+- 💻 Currently looking for work as an **IT Project Manager**
+- 👨‍🏫 Head of Logistics at **The Hub AUBG**
+- ⚡ Something about me: I love tackling problems the hardest way possible...
 ---
 
 ### Connect with me:
