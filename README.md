@@ -38,12 +38,3 @@
 
 <br />
 <br />
-
----
-
-<summary>:zap: GitHub Stats</summary>
-
-<div>
-  <img height="160" align="left" alt="Pugyov's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pugyov&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pugyov&layout=compact&bg_color=09131B&hide_border=true" />
-</div>
