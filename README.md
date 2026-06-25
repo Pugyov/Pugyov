@@ -4,9 +4,8 @@
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🌱 I'm majoring in **Information Systems** and **Business Administration** at **American University in Bulgaria (AUBG)**
-- 💻 Currently looking for work as an **IT Project Manager / Product Manager**
-- 👨‍🏫 Head of Logistics at **The Hub AUBG**
+- 🌱 **American University in Bulgaria (AUBG) Alumni**
+- 💻 Product Manager at **Progress Software**
 - ⚡ Something about me: I love tackling problems the hardest way possible...
 ---
 
