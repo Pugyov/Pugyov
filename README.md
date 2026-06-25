@@ -1,11 +1,7 @@
-# Hi there, I'm Nikolay 👋 
-
-## I'm a Product Manager looking for an opportunity to grow.
-
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🌱 **American University in Bulgaria (AUBG) Alumni**
-- 💻 Product Manager at **Progress Software**
+- 🌱 **American University in Bulgaria** Alumni
+- 💻 Product Manager Intern at **Progress Software**
 - ⚡ Something about me: I love tackling problems the hardest way possible...
 ---
 
